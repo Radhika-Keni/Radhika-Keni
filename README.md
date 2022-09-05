@@ -3,6 +3,7 @@
 Welcome to my Repo!
 
 I am a Computer Science Engineer with 9 years of prior experience in Software Development(primarily in JAVA/J2EE & Middleware) before I decided to pursue my post graduation in AIML.
+
 I did a Post Graduate Program in Artificial Intelligence & Machine learning from Great Lakes(University of Texas at Austin) and chose to major in Computer Vision. I graduated from this program  in April 2022 and the purpose of this repositary is to host all of the work I have done in AI/Deep Learing(primarily in the areas of Artificial Neural Networks and Computer Vision).
 
 I have made sure to create very elaborate readMe's for all my projects so ya'll can get a concise summary of both the problem statement at hand and an overview of what the python worksheet/code soughts out to achieve before you actually go and get your hands dirty with the code.
