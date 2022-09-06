@@ -2,7 +2,7 @@
 
 Welcome to my Computer Vision Repo!
 
-![Alt text](/unsplash_credit_kevin_ku.jpg)
+![Alt text](/unsplash_credit_kevin_ku_2.jpg)
 
 💁 About Me
 
