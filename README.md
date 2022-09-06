@@ -6,7 +6,7 @@ Welcome to my Computer Vision Repo!
 
 💁 About Me
 
-I'm a Computer Science Engineer with 9 years of experience in Software Development (primarily in JAVA/J2EE & Middleware).I decided to pursue my post-graduation in AIML and completed a Post Graduate Program in Artificial Intelligence & Machine learning from Great Lakes (University of Texas at Austin) with a major in Computer Vision in 2022.
+I'm a Computer Science Engineer with 9 years of experience in Software Development (primarily in JAVA/J2EE & Middleware).Post this 9 year stint ,I decided to pursue my post-graduation in AIML and completed a Post Graduate Program in Artificial Intelligence & Machine learning from Great Lakes (University of Texas at Austin) with a major in Computer Vision , graduating in 2022.
 
 💻 About My Projects
 
