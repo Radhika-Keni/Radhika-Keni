@@ -7,7 +7,7 @@ Welcome to my Computer Vision Repo!
 I'm a Computer Science Engineer with 9 years of prior experience in Software Development (primarily in JAVA/J2EE & Middleware) before I decided to pursue my post-graduation in AIML.
 I did a Post Graduate Program in Artificial Intelligence & Machine learning from Great Lakes (University of Texas at Austin) and chose to major in Computer Vision. 
 
-![My_Image][kevin-ku-w7ZyuGYNpRQ-unsplash.jpg]
+![kevin-ku-w7ZyuGYNpRQ-unsplash.JPG]
 
 💻 My Work
 
