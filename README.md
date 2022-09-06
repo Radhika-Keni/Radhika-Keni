@@ -11,7 +11,7 @@ I did a Post Graduate Program in Artificial Intelligence & Machine learning from
 
 💻 About My Projects
 
-The purpose of this repository is to host all of the work I have done in AI/Deep Learning (primarily in the areas of Artificial Neural Networks and Computer Vision).You will find a link to all my projects in the 'Projects' section to follow below.Each of my projects has an elborate readme so ya'll can get a concise summary of the problem statement at hand , a sample input to the program ,a sample output  from the program and an overview of the solution/code before you actually go and get your hands dirty with the code.
+The purpose of this repository is to host all of the work I have done in AI/Deep Learning (primarily in the areas of Artificial Neural Networks and Computer Vision).You will find a link to all my projects in the 'Projects' section to below.Each of my projects has an elaborate readme so ya'll can get a concise summary of the problem statement at hand , a sample input to the program ,a sample output  from the program and an overview of the solution/code before you actually go and get your hands dirty with the code.
 
 Please feel free to  point out any bugs or leave any comments/suggestions/recommendations/optimization suggestions in the "Issues" section on my Git Hub profile , I would love to hear from you.
 
