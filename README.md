@@ -12,7 +12,7 @@ I did a Post Graduate Program in Artificial Intelligence & Machine learning from
 💻 My Work
 
 The purpose of this repository is to host all of the work I have done in AI/Deep Learning (primarily in the areas of Artificial Neural Networks and Computer Vision).
-Each of my projects has an elborate readme so ya'll can get a concise summary of both the problem statement at hand and an overview of the solution/code before you actually go and get your hands dirty with the code.
+Each of my projects has an elborate readme so ya'll can get a concise summary of the problem statement at hand , an input image to the program ,an output image from the program (wherever applicable) and an overview of the solution/code before you actually go and get your hands dirty with the code.
 
 Please feel free to  point out any bugs or leave any comments/suggestions/recommendations/optimization suggestions in the "Issues" section on my Git Hub profile , I would love to hear from you.
 
