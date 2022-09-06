@@ -9,7 +9,7 @@ Welcome to my Computer Vision Repo!
 I'm a Computer Science Engineer with 9 years of prior experience in Software Development (primarily in JAVA/J2EE & Middleware) before I decided to pursue my post-graduation in AIML.
 I did a Post Graduate Program in Artificial Intelligence & Machine learning from Great Lakes (University of Texas at Austin) and chose to major in Computer Vision. 
 
-💻 My Work
+💻 My Projects
 
 The purpose of this repository is to host all of the work I have done in AI/Deep Learning (primarily in the areas of Artificial Neural Networks and Computer Vision).
 Each of my projects has an elborate readme so ya'll can get a concise summary of the problem statement at hand , a sample input to the program ,a sample output  from the program and an overview of the solution/code before you actually go and get your hands dirty with the code.
