@@ -16,7 +16,7 @@ Each of my projects has an elborate readme so ya'll can get a concise summary of
 
 Please feel free to  point out any bugs or leave any comments/suggestions/recommendations/optimization suggestions in the "Issues" section on my Git Hub profile , I would love to hear from you.
 
-🙏 Thanks for stopping by and happy coding ☺️
+Thanks for stopping by and happy coding ☺️
 
 
 <!--
