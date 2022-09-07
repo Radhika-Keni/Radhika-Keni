@@ -2,7 +2,7 @@
 
 Welcome to my Computer Vision Repo!
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/Radhika-Keni/Radhika-Keni/blob/main/Yolo5.gif)
 
 💁 About Me
 
