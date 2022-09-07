@@ -2,7 +2,7 @@
 
 Welcome to my Computer Vision Repo!
 
-![Alt text](/yolo5.gif)
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 💁 About Me
 
