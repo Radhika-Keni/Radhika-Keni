@@ -11,15 +11,17 @@ I'm a Computer Science Engineer with 9 years of experience in Software Developme
 💻 About My Projects
 
 The purpose of this repository is to host all the projects that I have worked on in the areas of AI/Deep Learning (primarily Artificial Neural Networks and Computer Vision).You will find a link to all my projects in the 'Projects' section below.Each of my projects has an elaborate readme so ya'll can get a concise summary of the problem statement at hand , a sample input to the program ,a sample output from the program and an overview of the solution/code before you can actually go and get your hands dirty with the code.
-
 Please feel free to  point out any bugs or leave any comments/suggestions/recommendations/optimization suggestions in the "Issues" section on my Git Hub profile , I would love to hear from you.
-
 Thanks for stopping by and happy coding ☺️
 
 
-:scroll: My Projects
+
+:scroll: Deep Learning Projects
+
+:oncoming_automobile:[Object Detection for Car Identification](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)
 
 
+[![image](https://user-images.githubusercontent.com/68383273/191109632-c8f6cf7e-eda6-4b7c-8796-e989db831af6.png)](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)
 
 
 
