@@ -27,7 +27,7 @@ Thanks for stopping by and happy coding ☺️
 
 [Face Recognition](https://github.com/Radhika-Keni/Face_Recognition)
 
-![image](https://user-images.githubusercontent.com/68383273/191283232-e9096109-7b23-4e29-ad29-23ff0bb619c3.png)(https://github.com/Radhika-Keni/Face_Recognition)
+[![image](https://user-images.githubusercontent.com/68383273/191283954-74869b2a-ce3d-4ab4-9bba-08878751665e.png)](https://github.com/Radhika-Keni/Face_Recognition)
 
 
 
