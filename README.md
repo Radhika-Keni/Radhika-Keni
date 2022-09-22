@@ -25,11 +25,17 @@ Thanks for stopping by and happy coding ☺️
 [![image](https://user-images.githubusercontent.com/68383273/191109632-c8f6cf7e-eda6-4b7c-8796-e989db831af6.png)](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)
 
 
+
 [Face Recognition](https://github.com/Radhika-Keni/Face_Recognition)
 
 [![image](https://user-images.githubusercontent.com/68383273/191283954-74869b2a-ce3d-4ab4-9bba-08878751665e.png)](https://github.com/Radhika-Keni/Face_Recognition)
 
 
+
+
+[Face Detection](https://github.com/Radhika-Keni/Object_Detection_For_Faces)
+
+[![image](https://user-images.githubusercontent.com/68383273/191737432-0957c935-9577-4667-9cd6-2dc875e6b31f.png)](https://github.com/Radhika-Keni/Object_Detection_For_Faces)
 
 
 <!--
