@@ -2,7 +2,7 @@
 
 Welcome to my Computer Vision Repo!
 
-![](https://github.com/Radhika-Keni/Radhika-Keni/blob/main/Yolo5.gif)
+<img src="https://github.com/Radhika-Keni/Radhika-Keni/blob/main/Yolo5.gif" width="300" />
 
 💁 About Me
 
@@ -21,19 +21,19 @@ Thanks for stopping by and happy coding ☺️
 
 |[Object Detection for Car Identification](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|
 |-----|
-|[![image](https://user-images.githubusercontent.com/68383273/191109632-c8f6cf7e-eda6-4b7c-8796-e989db831af6.png)](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|
+|[<img src="https://user-images.githubusercontent.com/68383273/191109632-c8f6cf7e-eda6-4b7c-8796-e989db831af6.png" width="300" />](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|
 
 |[Face Recognition](https://github.com/Radhika-Keni/Face_Recognition)|
 |-----|
-|[![image](https://user-images.githubusercontent.com/68383273/191283954-74869b2a-ce3d-4ab4-9bba-08878751665e.png)](https://github.com/Radhika-Keni/Face_Recognition)|
+|[<img src="https://user-images.githubusercontent.com/68383273/191283954-74869b2a-ce3d-4ab4-9bba-08878751665e.png" width="300" />](https://github.com/Radhika-Keni/Face_Recognition)|
 
 |[Face Detection](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|
 |-----|
-|[![image](https://user-images.githubusercontent.com/68383273/191739169-29c8e693-137b-43da-b190-bd5922980214.png)](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|
+|[<img src="https://user-images.githubusercontent.com/68383273/191739169-29c8e693-137b-43da-b190-bd5922980214.png" width="300" />](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|
 
 [Image Classification](https://github.com/Radhika-Keni/Image_Classification)|
 |-----|
-[![image](https://user-images.githubusercontent.com/68383273/191968439-3ca25da8-eda0-4b4e-a14c-463b6e8099f3.png)](https://github.com/Radhika-Keni/Image_Classification)|
+[<img src="https://user-images.githubusercontent.com/68383273/191968439-3ca25da8-eda0-4b4e-a14c-463b6e8099f3.png" width="300" />](https://github.com/Radhika-Keni/Image_Classification)|
 
 
 <!--
