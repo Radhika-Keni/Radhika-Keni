@@ -31,9 +31,9 @@ Thanks for stopping by and happy coding ☺️
 |-----|
 |[![image](https://user-images.githubusercontent.com/68383273/191739169-29c8e693-137b-43da-b190-bd5922980214.png)](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|
 
-|[Image Classification](https://github.com/Radhika-Keni/Image_Classification)|
+[Image Classification](https://github.com/Radhika-Keni/Image_Classification)|
 |-----|
-|[![image](https://user-images.githubusercontent.com/68383273/191819414-3630d3b1-92c8-4479-99ab-d014ac02136d.png)](https://github.com/Radhika-Keni/Image_Classification)|
+[![image](https://user-images.githubusercontent.com/68383273/191968439-3ca25da8-eda0-4b4e-a14c-463b6e8099f3.png)](https://github.com/Radhika-Keni/Image_Classification)|
 
 
 <!--
