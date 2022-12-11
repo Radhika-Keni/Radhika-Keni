@@ -4,6 +4,9 @@ Welcome to my Computer Vision Repo!
 
 <img src="https://github.com/Radhika-Keni/Radhika-Keni/blob/main/Yolo5.gif" width="300" />
 
+![](https://komarev.com/ghpvc/?username=Radhika-Keni&color=yellow)
+
+
 💁 About Me
 
 I'm a Computer Science Engineer with 9 years of experience in software development(primarily in JAVA/J2EE/Middleware) & leading development teams.Post this 9 year stint ,I decided to pursue my post-graduation in AI-ML .I did a Post Graduate Degree in Artificial Intelligence & Machine learning from the University of Texas at Austin with a major in Computer Vision and graduated from the same in 2022.
