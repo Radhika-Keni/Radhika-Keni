@@ -9,7 +9,7 @@ Welcome to my Computer Vision Repo!
 
 💁 About Me
 
-I'm a Computer Science Engineer with 9 years of experience in software development(primarily in JAVA/J2EE/Middleware) & leading development teams.Post this 9 year stint ,I decided to pursue my post-graduation in AI-ML .I did a Post Graduate Degree in Artificial Intelligence & Machine learning from the University of Texas at Austin with a major in Computer Vision and graduated from the same in 2022.
+I'm a Computer Science Engineer with 9 years of experience in software development(primarily in SOA/Microservices/Middleware development using a tech stack comprising of JAVA/J2EE & Oracle SOA Suite) & leading development teams.Post this 9 year stint ,I decided to pursue my post-graduation in AI-ML .I did a Post Graduate Degree in Artificial Intelligence & Machine learning from the University of Texas at Austin with a major in Computer Vision and graduated from the same in 2022.
 
 💻 About My Projects
 
