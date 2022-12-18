@@ -21,15 +21,21 @@ Thanks for stopping by and happy coding ☺️
 
 :open_file_folder: My Projects
 
-
-|[Object Detection for Car Identification](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|[Face Recognition](https://github.com/Radhika-Keni/Face_Recognition)|[Face Detection](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|
-|-----|-----|-----|
-|[<img src="https://user-images.githubusercontent.com/68383273/191109632-c8f6cf7e-eda6-4b7c-8796-e989db831af6.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|[<img src="https://user-images.githubusercontent.com/68383273/191283954-74869b2a-ce3d-4ab4-9bba-08878751665e.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Face_Recognition)|[<img src="https://user-images.githubusercontent.com/68383273/191739169-29c8e693-137b-43da-b190-bd5922980214.png" width="300" height="200" />](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|
-
+:card_file_box: Computer Vision Basics
 
 |[Image Classification](https://github.com/Radhika-Keni/Image_Classification)|[Neural Network Classifier](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|[Neural Network Regressor](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)
 |-----|-----|-----|
 [<img src="https://user-images.githubusercontent.com/68383273/191968439-3ca25da8-eda0-4b4e-a14c-463b6e8099f3.png" width="300" height="200" />](https://github.com/Radhika-Keni/Image_Classification)|[<img src="https://user-images.githubusercontent.com/68383273/193482046-f99f3b7d-1143-4c4e-8d32-2b1fec6582e5.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|[<img src="https://user-images.githubusercontent.com/68383273/193481997-7ee3327b-ffba-4dac-8a3c-ccccc6c98d01.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)|
+
+
+:card_file_box: Computer Vision Intermediate
+|[Object Detection for Car Identification](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|[Face Recognition](https://github.com/Radhika-Keni/Face_Recognition)|[Face Detection](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|
+|-----|-----|-----|
+|[<img src="https://user-images.githubusercontent.com/68383273/191109632-c8f6cf7e-eda6-4b7c-8796-e989db831af6.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|[<img src="https://user-images.githubusercontent.com/68383273/191283954-74869b2a-ce3d-4ab4-9bba-08878751665e.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Face_Recognition)|[<img src="https://user-images.githubusercontent.com/68383273/191739169-29c8e693-137b-43da-b190-bd5922980214.png" width="300" height="200" />](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|
+
+:card_file_box: Computer Vision From Scratch
+
+
 
 
 
