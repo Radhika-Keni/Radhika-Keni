@@ -13,7 +13,7 @@ I'm a Computer Science Engineer with 9 years of experience in software developme
 
 💻 About My Projects
 
-The purpose of this repository is to host all the projects that I have worked on in the areas of AI/Deep Learning (primarily Artificial Neural Networks and Computer Vision). Links to all my projects are available in the ****"My Projects" section below**** .Each of my projects has an elaborate readme so ya'll can get a concise summary of the problem statement at hand , a sample input to the program ,a sample output from the program and an overview of the solution/code before you actually go and get your hands dirty with the code.
+The purpose of this repository is to host all the projects that I have worked on in the areas of AI/Deep Learning (primarily Artificial Neural Networks and Computer Vision). Links to all my projects are available in the ****"My Projects" section below**** .Each of my projects has an elaborate readme so ya'll can get a concise summary of the problem statement at hand , a sample input to the program ,a sample output from the program and an overview of the solution/code before you actually go and get your hands dirty with the code which is available in the corresponding python worksheets.
 Please feel free to comment in the "Issues" section on my Git Hub profile , I would love to hear from you.
 Thanks for stopping by and happy coding ☺️
 
