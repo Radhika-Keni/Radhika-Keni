@@ -2,7 +2,6 @@
 
 Welcome to my Computer Vision Repo!
 
-<img src="https://github.com/Radhika-Keni/Radhika-Keni/blob/main/Yolo5.gif" width="300" />
 
 ![](https://komarev.com/ghpvc/?username=Radhika-Keni&color=yellow)
 
