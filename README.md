@@ -21,9 +21,13 @@ Thanks for stopping by and happy coding ☺️
 :open_file_folder: My Projects
 
 :card_file_box: Deep Learning Fundamentals
-|[Vanilla Gradient Descent on MSE From Scratch](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|
-|-----|
-|[<img src="https://user-images.githubusercontent.com/68383273/209479627-34c9f47d-3cbf-43dd-a48f-43ec227ba35d.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|
+|[Vanilla Gradient Descent on MSE From Scratch](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|[Toggle Learning Rate From Scratch](https://github.com/Radhika-Keni/Toggle_Learning_Rate_On_Gradient_Descent_From_Scratch)
+|-----|-----|
+|[<img src="https://user-images.githubusercontent.com/68383273/209479627-34c9f47d-3cbf-43dd-a48f-43ec227ba35d.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|[<img src="https://user-images.githubusercontent.com/68383273/211157135-77c4517e-c4b4-4210-a7ca-d97238e0b6e8.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Toggle_Learning_Rate_On_Gradient_Descent_From_Scratch)|
+
+
+
+
 
 
 :card_file_box: Neural Network Building Blocks
