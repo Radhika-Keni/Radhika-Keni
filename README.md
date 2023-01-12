@@ -23,7 +23,7 @@ Thanks for stopping by and happy coding ☺️
 :card_file_box: Deep Learning Fundamentals
 |[Vanilla Gradient Descent on MSE From Scratch](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|[Toggle Learning Rate From Scratch](https://github.com/Radhika-Keni/Toggle_Learning_Rate_On_Gradient_Descent_From_Scratch)
 |-----|-----|
-|[<img src="https://user-images.githubusercontent.com/68383273/212136766-e5d00ad7-15e7-4726-a22d-9f85a85931e0.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|[<img src="https://user-images.githubusercontent.com/68383273/211157296-9a642e4d-0fc4-49d2-8366-6e27d19dded4.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Toggle_Learning_Rate_On_Gradient_Descent_From_Scratch)|
+|[<img src="https://user-images.githubusercontent.com/68383273/212136766-e5d00ad7-15e7-4726-a22d-9f85a85931e0.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|[<img src="https://user-images.githubusercontent.com/68383273/212143319-e36e3c3c-7b10-42f0-ab2e-a68f6121b759.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Toggle_Learning_Rate_On_Gradient_Descent_From_Scratch)|
 
 
 
