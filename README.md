@@ -42,7 +42,7 @@ Thanks for stopping by and happy coding ☺️
 
 
 :card_file_box: Object Localisation
-|[Object Localisation for Car Identification](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|
+|[Object Localisation for Car Identification(From Scratch)](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|
 |-----|
 |[<img src="https://user-images.githubusercontent.com/68383273/191109632-c8f6cf7e-eda6-4b7c-8796-e989db831af6.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|
 
