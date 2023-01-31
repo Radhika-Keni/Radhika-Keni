@@ -27,7 +27,7 @@ Thanks for stopping by and happy coding ☺️
 
 
 
-:card_file_box: Neural Network Basics
+:card_file_box: Neural Network Fundamentals
 
 |[Neural Network Regressor](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)|[Neural Network Classifier](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|
 |-----|-----|
