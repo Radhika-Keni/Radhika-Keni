@@ -45,7 +45,7 @@ Thanks for stopping by and happy coding ☺️
 |-----|-----|
 [<img src="https://user-images.githubusercontent.com/68383273/193481997-7ee3327b-ffba-4dac-8a3c-ccccc6c98d01.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)|[<img src="https://user-images.githubusercontent.com/68383273/193482046-f99f3b7d-1143-4c4e-8d32-2b1fec6582e5.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|
 
-:card_file_box: Image Classification
+:card_file_box: Image Classification Fundamentals
 
 |[Oxford Flower Classification](https://github.com/Radhika-Keni/Image_Classification)|
 |-----|
