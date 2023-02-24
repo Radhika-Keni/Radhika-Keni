@@ -1,4 +1,4 @@
-### Hello World 👋,
+### 👋 Hello World ,
 
 Welcome to my Computer Vision Repo!
 
@@ -8,7 +8,18 @@ Welcome to my Computer Vision Repo!
 
 💁 About Me
 
-I'm a Computer Science Engineer with 9 years of experience in Software Development & leading development teams primarily in the Integration/Microservices/SOA/Middleware development domain using a tech stack comprising of JAVA/J2EE & Oracle SOA Suite.Post this 9 year stint ,I decided to pursue my post-graduation in AI-ML .I did a Post Graduate Degree in Artificial Intelligence & Machine learning from the University of Texas at Austin/Great Lakes with a major in Computer Vision and graduated from the same in 2022.
+A coder by design , I believe in embracing change and adopting technology agnosticism.
+
+I have about 9 years of professional experience in software development & leading development teams primarily in the Integration/Microservices/SOA/Middleware development  domain . Post this stint , I decided to pursue higher education and obtained a Post Graduate Degree in Artificial Intelligence & Machine Learning (with a Major in Computer Vision) , in 2022. (Area of interest : Event Detection)
+
+As I navigate the fundamentals and venture into more complex use-cases , I log my Deep learning/Computer Vision journey ,every step of the way,  @ https://github.com/Radhika-Keni.
+
+
+
+👯 I'm looking to collaborate with good coders on a similar journey , feel free to reach out if you relate to my work !
+
+
+
 
 💻 About My Projects
 
