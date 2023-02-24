@@ -19,7 +19,8 @@ As I navigate the fundamentals and venture into more complex use-cases , I log m
 
 
 
-👯 I'm looking to collaborate with good coders on a similar journey , feel free to reach out if you relate to my work !
+👯👯👯
+I'm looking to collaborate with good coders on a similar journey , feel free to reach out if you relate to my work !
 
 
 
