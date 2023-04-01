@@ -47,13 +47,6 @@ Thanks for stopping by and happy coding ☺️
 
 
 
-:card_file_box: Deep Learning Fundamentals
-|[Vanilla Gradient Descent on MSE (From Scratch)](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|[Toggle Learning Rate (From Scratch)](https://github.com/Radhika-Keni/Toggle_Learning_Rate_On_Gradient_Descent_From_Scratch)|[Adam Vs Vanilla Gradient Descent (From Scratch)](https://github.com/Radhika-Keni/Adam_Vs_Vanilla_GradientDescent_From_Scratch)
-|-----|-----|-----|
-|[<img src="https://user-images.githubusercontent.com/68383273/212136766-e5d00ad7-15e7-4726-a22d-9f85a85931e0.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|[<img src="https://user-images.githubusercontent.com/68383273/212143319-e36e3c3c-7b10-42f0-ab2e-a68f6121b759.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Toggle_Learning_Rate_On_Gradient_Descent_From_Scratch)|[<img src="https://user-images.githubusercontent.com/68383273/212478680-0e6765ab-b003-4070-a360-50e2575e0ee2.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Adam_Vs_Vanilla_GradientDescent_From_Scratch)|
-
-
-
 :card_file_box: Image Classification Fundamentals
 
 |[Oxford Flower Classification](https://github.com/Radhika-Keni/Image_Classification)|
@@ -66,6 +59,14 @@ Thanks for stopping by and happy coding ☺️
 |[Neural Network Regressor](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)|[Neural Network Classifier](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|
 |-----|-----|
 [<img src="https://user-images.githubusercontent.com/68383273/229279215-0ecf9a6c-81dd-44fb-911a-844164a32a01.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)|[<img src="https://user-images.githubusercontent.com/68383273/229280060-da76f933-b18d-42a3-8917-4d70f935e1c3.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|
+
+
+:card_file_box: Deep Learning Fundamentals
+|[Vanilla Gradient Descent on MSE (From Scratch)](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|[Toggle Learning Rate (From Scratch)](https://github.com/Radhika-Keni/Toggle_Learning_Rate_On_Gradient_Descent_From_Scratch)|[Adam Vs Vanilla Gradient Descent (From Scratch)](https://github.com/Radhika-Keni/Adam_Vs_Vanilla_GradientDescent_From_Scratch)
+|-----|-----|-----|
+|[<img src="https://user-images.githubusercontent.com/68383273/212136766-e5d00ad7-15e7-4726-a22d-9f85a85931e0.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Vanilla_Gradient_Descent_on_MSE)|[<img src="https://user-images.githubusercontent.com/68383273/212143319-e36e3c3c-7b10-42f0-ab2e-a68f6121b759.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Toggle_Learning_Rate_On_Gradient_Descent_From_Scratch)|[<img src="https://user-images.githubusercontent.com/68383273/212478680-0e6765ab-b003-4070-a360-50e2575e0ee2.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Adam_Vs_Vanilla_GradientDescent_From_Scratch)|
+
+
 
 
 
