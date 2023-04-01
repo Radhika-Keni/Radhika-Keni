@@ -65,7 +65,7 @@ Thanks for stopping by and happy coding ☺️
 
 |[Neural Network Regressor](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)|[Neural Network Classifier](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|
 |-----|-----|
-[<img src="https://user-images.githubusercontent.com/68383273/193481997-7ee3327b-ffba-4dac-8a3c-ccccc6c98d01.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)|[<img src="https://user-images.githubusercontent.com/68383273/193482046-f99f3b7d-1143-4c4e-8d32-2b1fec6582e5.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|
+[<img src="https://user-images.githubusercontent.com/68383273/229279215-0ecf9a6c-81dd-44fb-911a-844164a32a01.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)|[<img src="https://user-images.githubusercontent.com/68383273/229280060-da76f933-b18d-42a3-8917-4d70f935e1c3.png" width="300" height="200" />](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|
 
 
 
