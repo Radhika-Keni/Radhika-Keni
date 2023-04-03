@@ -49,9 +49,9 @@ Thanks for stopping by and happy coding ☺️
 
 :card_file_box: Image Classification Fundamentals
 
-|[Oxford Flower Classification](https://github.com/Radhika-Keni/Image_Classification)|
-|-----|
-|[<img src="https://user-images.githubusercontent.com/68383273/191968439-3ca25da8-eda0-4b4e-a14c-463b6e8099f3.png" width="300" height="200" />](https://github.com/Radhika-Keni/Image_Classification)|
+|[Oxford Flower Classification](https://github.com/Radhika-Keni/Image_Classification)|[Car Model Classification](https://github.com/Radhika-Keni/Car_Model_Classification)|
+|-----|-----|
+|[<img src="https://user-images.githubusercontent.com/68383273/191968439-3ca25da8-eda0-4b4e-a14c-463b6e8099f3.png" width="300" height="200" />](https://github.com/Radhika-Keni/Image_Classification)|[<img src="https://user-images.githubusercontent.com/68383273/229580702-953ca73e-da11-457e-91d3-fff8d6f64e17.png" width="300" height="200" />](https://github.com/Radhika-Keni/Car_Model_Classification)
 
 
 :card_file_box: Neural Network Fundamentals
