@@ -27,34 +27,34 @@ I'm looking to collaborate with good coders on a similar journey , feel free to 
 
 💻 About My Projects
 
-The purpose of this repository is to host all the projects that I have worked on in the areas of AI/Deep Learning (primarily Artificial Neural Networks and Computer Vision). Links to all my projects are available in the ****"My Projects" section below**** .Each of my projects has an elaborate readme so ya'll can get a concise summary of the problem statement at hand , a sample input to the program ,a sample output from the program and an overview of the solution/code before you actually go and get your hands dirty with the code(which is available in the corresponding python worksheets).
+The purpose of this repository is to host all the projects that I have worked on in the areas of AI/Deep Learning (primarily Artificial Neural Networks and Computer Vision). Links to all my projects are available in the ****Projects****  section below .Each of my projects has an elaborate readme so ya'll can get a concise summary of the problem statement at hand , a sample input to the program ,a sample output from the program and an overview of the solution/code before you actually go and get your hands dirty with the code(which is available in the corresponding python worksheets).
 Please feel free to comment in the "Issues" section on my Git Hub profile , I would love to hear from you.
 Thanks for stopping by and happy coding ☺️
 
 
 
-:open_file_folder: My Projects
+:open_file_folder:  Projects
 
-:card_file_box: Computer Vision Current 
-|[Car Detection](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|[Face Detection](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|[Face Recognition](https://github.com/Radhika-Keni/Face_Recognition)|
-|-----|-----|-----|
-|[<img src="https://user-images.githubusercontent.com/68383273/191109632-c8f6cf7e-eda6-4b7c-8796-e989db831af6.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|[<img src="https://user-images.githubusercontent.com/68383273/191739169-29c8e693-137b-43da-b190-bd5922980214.png" width="300" height="200" />](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|[<img src="https://user-images.githubusercontent.com/68383273/191283954-74869b2a-ce3d-4ab4-9bba-08878751665e.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Face_Recognition)|
+:card_file_box: Use Case Suite
+|[Satellite Imagery Detection (YOLOV7)](https://github.com/Radhika-Keni/Satellite_Imagery_Detection_YOLOV7)|[Car Detection (Custom Tensor Flow Model)](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|[Face Detection (MaskRCNN Model)](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|[Face Recognition (VGGFace Model)](https://github.com/Radhika-Keni/Face_Recognition)|
+|-----|-----|-----|-----|
+|[<img src="https://user-images.githubusercontent.com/68383273/230160330-4cfbe64f-51d0-40a3-992a-42e56864a536.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Satellite_Imagery_Detection_YOLOV7)|[<img src="https://user-images.githubusercontent.com/68383273/191109632-c8f6cf7e-eda6-4b7c-8796-e989db831af6.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Object_Detection-for-Car_Identification)|[<img src="https://user-images.githubusercontent.com/68383273/191739169-29c8e693-137b-43da-b190-bd5922980214.png" width="300" height="200" />](https://github.com/Radhika-Keni/Object_Detection_For_Faces)|[<img src="https://user-images.githubusercontent.com/68383273/191283954-74869b2a-ce3d-4ab4-9bba-08878751665e.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Face_Recognition)|
 
-:card_file_box: Object Localisation Plus Classification
+:card_file_box: Object Localisation Plus Classification (Custom Tensor Flow Model)
 |[Localisation (From Scratch)](https://github.com/Radhika-Keni/Object_Localisation_From_Scratch)|[Classification(From Scratch)](https://github.com/Radhika-Keni/Object_Classification_From_Scratch)|[Localisation Plus Classification(From Scratch)](https://github.com/Radhika-Keni/Object_Localisation_Plus_Classification-From_Scratch)|
 |-----|-----|-----|
 |[<img src="https://user-images.githubusercontent.com/68383273/219670644-9ebd4b9d-4e7b-4003-bc29-e4d0a5abb883.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Object_Localisation_From_Scratch)|[<img src="https://user-images.githubusercontent.com/68383273/219674840-694613dc-6184-4433-a2de-25f3fbcabb56.png" width="300" height="200" />](https://github.com/Radhika-Keni/Object_Classification_From_Scratch)|[<img src="https://user-images.githubusercontent.com/68383273/219669448-70860793-ecfe-4c2d-8438-f8136c369530.png" width="300" height="200"/>](https://github.com/Radhika-Keni/Object_Localisation_Plus_Classification-From_Scratch)|
 
 
 
-:card_file_box: Image Classification Fundamentals
+:card_file_box: Image Classification Fundamentals (Tensor Flow)
 
 |[Oxford Flower Classification](https://github.com/Radhika-Keni/Image_Classification)|[Car Model Classification](https://github.com/Radhika-Keni/Car_Model_Classification)|
 |-----|-----|
 |[<img src="https://user-images.githubusercontent.com/68383273/191968439-3ca25da8-eda0-4b4e-a14c-463b6e8099f3.png" width="300" height="200" />](https://github.com/Radhika-Keni/Image_Classification)|[<img src="https://user-images.githubusercontent.com/68383273/229580702-953ca73e-da11-457e-91d3-fff8d6f64e17.png" width="300" height="200" />](https://github.com/Radhika-Keni/Car_Model_Classification)
 
 
-:card_file_box: Neural Network Fundamentals
+:card_file_box: Neural Network Fundamentals (Tensor Flow)
 
 |[Neural Network Regressor](https://github.com/Radhika-Keni/NeuralNetworks_Regressor)|[Neural Network Classifier](https://github.com/Radhika-Keni/NeuralNetworks_Classifier)|
 |-----|-----|
