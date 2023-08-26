@@ -5,7 +5,8 @@ Welcome to my Computer Vision Repo!
 
 ![](https://komarev.com/ghpvc/?username=Radhika-Keni&color=yellow)
 
-![image](https://user-images.githubusercontent.com/68383273/221133537-e85b83de-c635-4ecd-850b-0873c18094c7.png)
+![image](https://github.com/Radhika-Keni/Radhika-Keni/assets/68383273/413c7b24-a71b-4b5d-b5c5-f21d7f7e350e)
+
 
 
 
