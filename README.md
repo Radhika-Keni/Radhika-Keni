@@ -1,6 +1,6 @@
 ### 👋 Hello World ,
 
-Welcome to my Computer Vision Repo!
+Welcome to my Machine Vision Repo!
 
 
 ![](https://komarev.com/ghpvc/?username=Radhika-Keni&color=yellow)
