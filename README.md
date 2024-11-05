@@ -14,7 +14,7 @@ Welcome to my Machine Vision Repo!
 
 A coder by design , I believe in embracing change and adopting technology agnosticism.
 
-I have about 9 years of professional experience in software development & leading development teams primarily in the Microservices development domain. Post this stint , I decided to pursue higher education and obtained a Post Graduate Degree in Artificial Intelligence & Machine Learning (with a Major in Computer Vision) , in 2022. (Area of interest :  Surveillance Automation with AI ,Medical Imaging Diagnosis with AI , )
+I have about 9 years of professional experience in software development & leading development teams primarily in the Microservices development domain. Post this stint , I decided to pursue higher education and obtained a Post Graduate Degree in Artificial Intelligence & Machine Learning (with a Major in Computer Vision) , in 2022. (Area of interest :  Surveillance Automation with AI ,Medical Imaging Diagnosis with AI)
 
 As I navigate the fundamentals and venture into more complex use-cases , I log my Deep learning/Computer Vision journey ,every step of the way,  @ https://github.com/Radhika-Keni.
 
