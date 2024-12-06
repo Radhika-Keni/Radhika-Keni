@@ -5,7 +5,8 @@ Welcome to my AI Vision Repo!
 
 ![](https://komarev.com/ghpvc/?username=Radhika-Keni&color=yellow)
 
-![image](https://github.com/Radhika-Keni/Radhika-Keni/assets/68383273/413c7b24-a71b-4b5d-b5c5-f21d7f7e350e)
+
+![image](https://github.com/user-attachments/assets/4f63b28f-df4d-4388-a55a-d2a53306d4ce)
 
 
 
