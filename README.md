@@ -15,7 +15,7 @@ Welcome to my AI Vision Repo!
 
 A coder by design , I believe in embracing change and adopting technology agnosticism.
 
-I have about 9 years of professional experience in software development & leading development teams primarily in the Microservices development domain. Post this stint , I decided to pursue higher education and obtained a Post Graduate Degree in Artificial Intelligence & Machine Learning (with a Major in AI Vision) , in 2022. (Areas of interest :  Surveillance Automation with AI , Medical Imaging Diagnosis with AI)
+I have about 9 years of professional experience in software development & leading development teams primarily in microservices development for business application integration. Post this stint , I decided to pursue higher education and obtained a Post Graduate Degree in Artificial Intelligence & Machine Learning (with a Major in AI Vision) , in 2022. (Areas of interest :  Surveillance Automation with AI , Medical Imaging Diagnosis with AI)
 
 
 👯👯👯
